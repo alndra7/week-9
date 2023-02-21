@@ -8,7 +8,7 @@ let, const, var
 
     ```jsx
     msgBox("Hello World");
-    console.log("Hello World");
+    console.log("Hello World");     -   правильный ответ
     msg("Hello World");
     alertBox("Hello World");
     ```
